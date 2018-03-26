@@ -1,0 +1,12 @@
+[
+    {
+        "action":{
+            "type":"blacklist",
+            "hiding":"class"
+        },
+        "id":1,
+        "condition":{
+            "hidingFilter":"advert"
+        }
+    },
+]    
